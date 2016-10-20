@@ -1,3 +1,3 @@
 - [target与currentTarget区别](https://github.com/huangtubiao/browser-compatibility/blob/master/articles/target与currentTarget区别.md)
 - [IE浏览器下的Input File](https://github.com/huangtubiao/browser-compatibility/blob/master/articles/IE浏览器下的Input File.md)
-- [IE7下的inline-block]()
+- [inline-block的使用](https://github.com/huangtubiao/browser-compatibility/blob/master/articles/inline-block的使用.md)
